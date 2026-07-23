@@ -152,6 +152,22 @@ chungle@chungle-VMware-Virtual-Platform:\~/dev-practice$ curl --version
 
 ```bash
 
+chungle@chungle-VMware-Virtual-Platform:\~/Desktop$ whoami
+
+chungle@chungle-VMware-Virtual-Platform:\~/Desktop$ hostname
+
+chungle@chungle-VMware-Virtual-Platform:\~/Desktop$ free -h
+
+chungle@chungle-VMware-Virtual-Platform:\~/Desktop$ hostname -I
+
+```
+
+\# BÀI 7
+
+
+
+```bash
+
 chungle@chungle-VMware-Virtual-Platform:\~/Desktop$ ping google.com
 
 chungle@chungle-VMware-Virtual-Platform:\~/Desktop$ curl https://example.com
@@ -159,4 +175,7 @@ chungle@chungle-VMware-Virtual-Platform:\~/Desktop$ curl https://example.com
 chungle@chungle-VMware-Virtual-Platform:\~/Desktop$ ss -tuln
 
 ```
+
+
+
 
